@@ -1,0 +1,1 @@
+list_primes(100)
